@@ -1,0 +1,25 @@
+# Documents - exclude per user request
+*.docx
+*.pdf
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Large zip files
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
